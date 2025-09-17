@@ -1,0 +1,1509 @@
+Non-Exam Assessment (NEA)
+NCFE Level 1/2 Technical Award in Business
+and Enterprise (603/7004/X)
+Centre version
+September 2025 DRAFT – DO NOT SHARE WITH LEARNERS
+
+v1.0
+
+All the material in this publication is © NCFE
+
+NCFE Level 1/2 Technical Award in Business and Enterprise (603/7004/X)
+Non-Exam Assessment (NEA): centre version
+
+Contents
+Introduction .................................................................................................................................. 4
+Information for learners ................................................................................................................ 5
+Marking guidelines ....................................................................................................................... 6
+Developing a resource pack......................................................................................................... 8
+Formal non-exam assessment (NEA) .......................................................................................... 8
+Project brief .................................................................................................................................. 9
+Appendix 1 ................................................................................................................................. 10
+Appendix 2 ................................................................................................................................. 10
+Appendix 3 ................................................................................................................................. 10
+Task 1 ........................................................................................................................................ 11
+Task 2 ........................................................................................................................................ 14
+Task 3 ........................................................................................................................................ 18
+Task 4 ........................................................................................................................................ 28
+
+2
+
+NCFE Level 1/2 Technical Award in Business
+and Enterprise (603/7004/X)
+Non-Exam Assessment (NEA)
+September 2025 DRAFT – DO NOT SHARE WITH LEARNERS
+Learner instructions
+•
+•
+•
+
+Read the project brief carefully before you start the work.
+You must clearly identify and label all of the work you produce during the supervised time.
+You must hand in all of your work to the supervisor at the end of each timed session.
+
+Learner information
+•
+•
+•
+•
+
+This NEA will assess your knowledge and understanding from across the qualification.
+The maximum mark for this NEA is 120.
+The maximum completion time for this NEA is 21 hours (plus 2 hours to develop a
+resource pack).
+All of the work you submit must be your own.
+
+Resources
+•
+
+You have been provided with the following information to use during the NEA:
+○ Appendix 1: extract from New Mopps Limited’s (NML) 2024 Income Statement
+○ Appendix 2: sales forecasts for NML's gardening service April 2026 to March 2027
+○ Appendix 3: the market for garden maintenance services in the UK
+
+Please complete the details below clearly and in BLOCK CAPITALS.
+Learner name
+Centre name
+
+Centre number
+
+Learner number
+
+Learner signature
+
+3
+
+Introduction
+The non-exam assessment (NEA) is a formal synoptic assessment that requires learners to
+independently apply an appropriate selection of knowledge, understanding, skills and
+techniques, developed through the full course of study, in response to a real-world situation, to
+enable them to demonstrate an integrated connection and coherence between the different
+elements of the qualification.
+The NEA will contribute 60% towards the overall qualification grade; therefore, it is important
+that the learner produces work to the highest standard that they can. The learner must not start
+the NEA until they have been taught the full course, to ensure that they are in the best position
+to complete the NEA successfully.
+What is synoptic assessment?
+Synoptic assessment is an important part of a high-quality vocational qualification because it
+shows that learners have achieved a holistic understanding of the sector. It also shows that they
+can make effective connections between different aspects of the subject content and across the
+breadth of the assessment objectives (AOs) in an integrated way. The Department for
+Education (DfE) has consulted with awarding organisations and agreed the following definition
+for synoptic assessment:
+‘A form of assessment which requires a candidate to demonstrate that they can identify
+and use effectively in an integrated way an appropriate selection of skills, techniques,
+concepts, theories, and knowledge from across the whole vocational area, which are
+relevant to a key task’.
+Synoptic assessment enables learners to show that they can transfer knowledge and skills
+learnt in one context to resolve problems raised in another. To support the development of a
+synoptic approach, the qualification encourages learners to make links between elements of the
+course and to demonstrate how they have integrated and applied their increasing knowledge
+and skills.
+As learners progress through the course, they will use and build upon knowledge and skills
+learnt across units. The NEA will test the learners’ ability to respond to a real-world situation.
+
+4
+
+Information for learners
+The NEA will be assessed holistically using a levels of response marking grid and against five
+integrated AOs. These AOs and their weightings are shown below.
+Assessment objectives (AOs)
+AO1: Recall knowledge and show understanding
+The emphasis here is for learners to recall and communicate the fundamental elements of
+knowledge and understanding.
+18 marks (15%)
+AO2: Apply knowledge and understanding
+The emphasis here is for learners to apply their knowledge and understanding to real-world
+contexts and novel situations.
+30 marks (25%)
+AO3: Analyse and evaluate knowledge and understanding
+The emphasis here is for learners to develop analytical thinking skills to make reasoned
+judgements and reach conclusions.
+20 marks (16.7%)
+AO4: Demonstrate and apply relevant technical skills, techniques and processes
+The emphasis here is for learners to demonstrate the essential technical skills relevant to the
+vocational sector by applying the appropriate processes, tools and techniques.
+40 marks (33.3%)
+AO5: Analyse and evaluate the demonstration of relevant technical skills, techniques
+and processes
+The emphasis here is for learners to analyse and evaluate the essential technical skills,
+processes, tools and techniques relevant to the vocational sector.
+12 marks (10%)
+
+5
+
+Mark scheme
+The purpose of this mark scheme is to give you:
+•
+•
+
+examples and criteria of the types of response expected from a learner
+the allocated AOs and total marks for each question.
+
+Marking guidelines
+General guidelines
+You must apply the following marking guidelines to all marking undertaken. This is to ensure
+fairness to all learners, who must receive the same treatment. You must mark the first learner in
+exactly the same way as you mark the last.
+•
+•
+•
+•
+•
+•
+
+The mark scheme must be referred to throughout the marking period and applied
+consistently. Do not change your approach to marking once you have been standardised.
+Reward learners positively, giving credit for what they have shown, rather than what they
+might have omitted.
+Utilise the whole mark range and always award full marks when the response merits them.
+Be prepared to award zero marks if the learner’s response has no creditworthy material.
+Do not credit irrelevant material that does not answer the question, no matter how
+impressive the response might be.
+If you are in any doubt about the application of the mark scheme, you must consult with your
+internal quality assurer.
+
+Guidelines for using extended-response marking grids
+Extended-response marking grids have been designed to assess learners’ work holistically.
+They consist of band-based descriptors and indicative content.
+Band-based descriptors
+Each band is made up of several descriptors from across the AO range – AO1 to AO5, which
+when combined provide the quality of response that a learner needs to demonstrate. Each
+band-based descriptor is worth varying marks.
+The grids are broken down into bands, with each band having an associated descriptor
+indicating the performance at that band. You should determine the band before determining the
+mark.
+Indicative content reflects content-related points that a learner may make but is not an
+exhaustive list, nor is it a model answer. Learners may make all, some or none of the points
+included in the indicative content, as its purpose is to guide the relevance and expectation of the
+responses. Learners must be credited for any other appropriate response.
+
+6
+
+Application of extended-response marking grids
+When determining a band, you should use a bottom-up approach. If the response meets all the
+descriptors in the lowest band, you should move to the next one, and so on, until the response
+matches the band descriptor. Remember to look at the overall quality of the response and
+reward learners positively, rather than focusing on small omissions. If the response covers
+aspects at different bands, you should use a best-fit approach at this stage and use the
+available marks within the band to credit the response appropriately.
+When determining a mark, your decision should be based on the quality of the response in
+relation to the descriptors.
+
+7
+
+Developing a resource pack
+Maximum time: 2 hours
+In addition to the allocated assessment time for this NEA, you are permitted to spend a
+maximum of 2 hours finding resources and developing a resource pack that you can refer to
+during the formal NEA assessment time. During this 2-hour period, you may access all learning
+materials, the internet and other published materials.
+Your resource pack is the only support material that is permitted during the completion of NEA
+tasks (unless otherwise stated within the task instructions).
+All research and data used in your final NEA must be referenced appropriately. As a minimum
+this must include the following:
+•
+•
+•
+
+the use of quotation marks to clearly identify any passages not of your own words
+date accessed (websites only)
+name of source / author.
+
+Evidence requirements: resource pack of no more than four sides of A4, font size 12 (if word
+processed), to be returned to your assessor at the end of each task / session and submitted
+with the completed NEA.
+
+Formal non-exam assessment (NEA)
+Maximum completion time
+You have been provided with a total of 21 hours to complete this NEA (plus 2 hours to develop
+a resource pack).
+You may use some or all of the time provided for each task.
+You are allowed to use any remaining time allocated to one task to rework previous tasks up to
+the maximum time allowed.
+You are not allowed to exceed the total number of hours.
+You should not start your NEA until you have been taught the full course of study. This will
+ensure that you are in the best position to complete the NEA successfully.
+
+8
+
+Project brief
+New Mopps Limited (NML) was set up in 2018 by Sarah Pool. NML provides cleaning services
+to households in the local town and operates from a small workshop unit on a trading estate.
+Sarah manages the operations of the business and receives an annual salary of £45 000. NML
+employs 10 cleaners on full-time contracts.
+NML relies on its social media and word-of-mouth to promote the business. Competition in the
+house cleaning market is growing, and Sarah believes there is little room for business growth in
+this market.
+To grow NML, Sarah is planning to introduce a gardening service from 1 April 2026. Two other
+businesses supply garden maintenance services in her local town. NML will perform general
+garden maintenance, for example cut grass and trim hedges.
+Initially, NML will recruit one full-time employee to offer the garden maintenance services,
+working 35-hours per week. This employee will be provided with a van and gardening tools. The
+van will cost Sarah £8000 to buy, and the gardening tools will cost £500.
+NML must have insurance for the van purchased and pay for diesel. Van insurance will be £85
+per month. Sarah estimates diesel costs of £80 per month per van. From April 2026, NML will
+rent an additional workshop unit for £250 per month, to store the vans and gardening
+equipment. Sarah has also predicted £150 per month for miscellaneous expenses.
+Another employee will be recruited in June 2026 on a temporary, 4-month contract working 20hours per week. In June 2026, NML will purchase £500 of gardening tools for this new
+employee and rent a van for 4 months at £250 per month which includes insurance. Both
+employees will be paid £14 per hour.
+Sarah expects sales will fall in October and recover in April each year.
+Customers can book a gardener by the hour, from 1 hour to 8 hours per day. Customers will be
+charged £35 per hour and must pay on the day the work is completed.
+From April 2026, Sarah will allocate herself £750 per month car allowance.
+Sarah has decided to keep a separate set of accounts for the gardening service. The gardening
+service will start with a £500 opening balance. NML will need a 5-year loan of £9000 on 31
+March 2026 to purchase vans and equipment for the gardening business. The monthly loan
+repayments will be £175 which includes interest.
+90% of net profit will be allocated as dividends each year over the next 5 years.
+
+9
+
+Appendix 1
+Extract from NML’s 2024 Income
+Statement
+£
+Total revenue
+280 000
+Cleaner’s wages
+Sarah’s salary
+Cleaning materials
+Rent of workshop
+Miscellaneous expenses
+
+208 208
+45 000
+7000
+6000
+8000
+
+Appendix 2
+Sales forecasts for NML's gardening
+service
+April 2026 to March 2027
+Hours booked by customers
+per month
+April
+120
+May
+120
+June
+220
+July
+220
+August
+220
+September
+220
+October
+100
+November
+100
+December
+100
+January
+100
+February
+100
+March
+100
+Sarah’s market research forecasts lower sales for April and May 2026 as it will take time to build
+a reputation in the gardening market. She expects April and May to be her busiest months from
+2027 onwards.
+
+Appendix 3
+The following information was found on the YourBuilder.com website:
+•
+•
+•
+
+Demand for gardening services in the UK is highest in the spring, with April and May being
+the busiest months.
+The UK market for gardening services is forecast to grow by 1.76% annually from 2026 to
+2031.
+Demand for gardening services is no longer limited to affluent households, but now includes
+other market segments, including retired people and those working full-time who lack the
+time to maintain their garden.
+10
+
+Assessment tasks and mark schemes
+Task 1
+Business and enterprise action planning
+Maximum time
+
+2 hours
+
+Content area assessed
+
+1. Entrepreneurship, business organisation and stakeholders
+
+Assessment objectives
+(AOs)
+
+AO1
+AO2
+AO3
+
+You are required to produce an action plan that:
+•
+•
+•
+•
+
+demonstrates you understand what it means to be an entrepreneur by developing an
+action plan so you can create an effective business plan that will support NML’s
+application for finance
+includes an analysis of the business and its plans for the future, identifying key points from
+the appendices provided
+identifies other relevant information needed to complete the task, supported by justified
+reasons
+includes a timeline identifying the key dates at which you will complete each task.
+
+Your action plan must include:
+•
+•
+•
+•
+
+a business summary, including benefits of entrepreneurship
+analysis of key points from the brief and appendices
+analysis of other relevant information needed, with justified reasons
+a timeline.
+[12 marks]
+You could use the following formats to provide evidence for your research:
+
+Evidence
+
+•
+•
+•
+
+written report
+graphs and charts
+timescale plan.
+
+11
+
+Task 1: business and enterprise action planning
+Band
+
+Mark
+
+Descriptor
+
+4
+
+10 to 12
+
+AO3 – excellent analysis of the brief, showing analytical thinking skills,
+with highly reasoned justifications for the additional information
+needed within the action plan.
+AO2 – excellent ability to apply knowledge and understanding to the
+scenario within the brief. Highly suitable selections that are highly
+detailed and highly relevant to the business scenario.
+AO1 – excellent ability to summarise information from the provided
+source materials that are highly relevant in relation to the brief. All
+elements of the brief will be considered in a highly detailed and
+effective way.
+
+3
+
+7 to 9
+
+AO3 – good analysis of the brief, showing some analytical thinking
+skills, with reasoned justifications for the additional information needed
+within the action plan.
+AO2 – good ability to apply knowledge and understanding to the
+scenario within the brief. Suitable selections, that are mostly detailed
+and mostly relevant to the business scenario.
+AO1 – good ability to summarise information, reflecting on a wide
+range of source materials that are mostly relevant in relation to the
+brief. Most elements of the brief will be considered in a detailed way.
+
+2
+
+4 to 6
+
+AO3 – reasonable analysis of the brief, showing a limited level of
+analytical thinking, with poorly reasoned justifications for the additional
+information needed within the action plan.
+AO2 – reasonable ability to apply knowledge and understanding to the
+scenario within the brief. Some suitable creative elections, that have
+some detail, with some relevance to the business scenario though
+may be underdeveloped.
+AO1 – reasonable ability to summarise information, reflecting a range
+of source materials that has some relevance in relation to the brief.
+Some elements will be considered in a reasonably detailed way.
+
+12
+
+Band
+
+Mark
+
+Descriptor
+
+1
+
+1 to 3
+
+AO3 – limited analysis of the brief, showing limited analytical thinking,
+justifications for the additional information needed within the action
+plan.
+AO2 – limited ability to apply knowledge and understanding to the
+scenario within the brief. Limited suitable creative elections that are
+limited in detail and with limited relevance to the business scenario.
+AO1 – limited ability to summarise information, reflecting limited use
+of source materials that has limited relevance relation to the brief.
+Some elements may be considered in a limited way.
+
+0
+
+No rewardable material
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each AO as laid out in the indicative content. The evidence provided by the learner for
+each AO may be embedded throughout the evidence submitted for the task. Whilst it is likely
+that the responses will be illustrated by the indicative content points below, credit should be
+given for different approaches, providing they meet the key requirements of the task and mark
+scheme.
+Indicative content
+AO1 – learners will recall knowledge and show understanding of what it means to be an
+entrepreneur in terms of:
+•
+•
+•
+•
+•
+•
+
+identifying potential business opportunity
+managing risks
+making decisions on the marketing mix
+understanding target market
+organising resources / the factors of production
+raising the finance.
+
+AO2 – learners will apply knowledge and understanding of the following within the action plan:
+•
+•
+•
+
+the business operates in the service sector
+the business plans to expand into the gardening market
+to ensure that the business can undertake this expansion, the business will need to assess
+a number of factors that could include the size of the potential market, who the customers
+could be, the marketing mix, and how this expansion could be financed.
+
+AO3 – learners will analyse and evaluate knowledge and understanding of the following within
+the action plan:
+•
+•
+
+an analysis of the information provided in the project brief and appendices
+an evaluation of the significance of the additional information needed with reasons
+13
+
+Task 2
+Research
+Maximum time
+
+4 hours plus 3 hours for research
+
+Content area assessed
+
+2. Market research, market types and orientation and marketing
+mix
+
+Assessment objectives
+(AOs)
+
+AO1
+AO2
+AO3
+
+You are required to:
+•
+•
+•
+
+undertake research to inform the business plan for NML’s expansion plans if NML was
+based in your local area. This should include both qualitative information and quantitative
+data
+provide an analysis of the data collected that meets the requirements of the project brief
+provide a written justification as to why the research method was selected.
+
+You are permitted to use the internet for the 3 hours of research only. You must reference all
+sources used.
+[20 marks]
+You could use the following formats to provide evidence for your research:
+
+Evidence
+
+•
+•
+•
+•
+•
+
+written report
+annotated diagrams
+digital presentation
+graphs and charts
+video.
+
+You must also submit your internet browsing history of sites used to support your
+response to the task.
+
+14
+
+Task 2: research
+Band
+
+Mark
+
+Descriptor
+
+4
+
+10 to 12
+
+AO2 – excellent ability to undertake research to inform the business
+plan for NML’s expansion.
+AO1 – excellent recall of knowledge and understanding of research,
+reflecting a comprehensive range of research sources that are highly
+relevant in relation to the brief. All elements of the brief will be
+researched in a highly detailed and effective way.
+
+3
+
+7 to 9
+
+AO2 – good ability to undertake research to inform the business plan
+for NML’s expansion.
+AO1 – good recall of knowledge and understanding of research,
+reflecting a wide range of research sources that are mostly relevant
+in relation to the brief. Most elements of the brief will be researched in
+a mostly detailed way.
+
+2
+
+4 to 6
+
+AO2 – reasonable ability to undertake research to inform the business
+plan for NML’s expansion.
+AO1 – reasonable recall of knowledge and understanding of research,
+reflecting a minimal range of research sources that are reasonably
+relevant in relation to the brief. Some elements of the brief will be
+researched in a reasonably detailed way.
+
+1
+
+1 to 3
+
+AO2 – limited ability to undertake research to inform the business plan
+for NML’s expansion.
+AO1 – limited recall of knowledge and understanding of research,
+reflecting limited use of research sources that have limited relevance
+in relation to the brief. Limited elements of the brief will be researched
+in a limited way.
+
+0
+
+No rewardable material
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each AO as laid out in the indicative content. The evidence provided by the learner for
+each AO may be embedded throughout the evidence submitted for the task. Whilst it is likely
+that the responses will be illustrated by the indicative content points below, credit should be
+given for different approaches, providing they meet the key requirements of the task and mark
+scheme.
+
+15
+
+Indicative content
+AO1 – learners will recall knowledge and show understanding of:
+•
+•
+•
+
+secondary research
+qualitative data
+quantitative data.
+
+AO2 – learners will apply knowledge and understanding of:
+•
+•
+•
+•
+•
+•
+
+the competitors that are in the proposed market
+the business target market
+the marketing mix
+the people that will be required to make the project a success
+the operational considerations that will be required
+the finance that is required for the proposed plan.
+
+Task 2: written report of their findings
+Band
+
+Mark
+
+Descriptor
+
+4
+
+7 to 8
+
+AO3 – excellent analysis of the research that is comprehensive and
+highly relevant. Supported with excellent justification for their choice
+of research that is comprehensive and highly detailed.
+AO3 – excellent, highly detailed, reasoned judgements provided on
+how the research will affect the business decision making.
+
+3
+
+5 to 6
+
+AO3 – good analysis and evaluation of the research that is detailed
+and mostly relevant. Supported with good justification for their choice
+of research that is detailed.
+AO3 – good, reasoned judgements provided on how the research will
+affect the business decision making that are detailed.
+
+2
+
+3 to 4
+
+AO3 – reasonable analysis and evaluation of the research that has
+some detail and is of some relevance. Supported with reasonable
+justification for their choice of research that has some detail, though
+these may be underdeveloped.
+AO3 – reasonable judgements provided on how the research will
+affect the business decision making that have some detail but may be
+underdeveloped.
+
+16
+
+Band
+
+Mark
+
+Descriptor
+
+1
+
+1 to 2
+
+AO3 – limited analysis and evaluation of the research that has some
+detail and is of some relevance. Supported with reasonable
+justification for their choice of research that has some detail, though
+these may be underdeveloped.
+AO3 – limited judgements provided on how the research will affect the
+business decision making that have some detail but may be
+underdeveloped.
+
+0
+
+No rewardable material
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each AO as laid out in the indicative content. The evidence provided by the learner for
+each AO may be embedded throughout the evidence submitted for the task. Whilst it is likely
+that the responses will be illustrated by the indicative content points below, credit should be
+given for different approaches, providing they meet the key requirements of the task and mark
+scheme.
+Indicative content
+AO3 – learners will analyse and evaluate knowledge and understanding of:
+•
+•
+•
+•
+•
+
+why the research methods were selected
+what NML should undertake / consider as a result of the competitors in the market
+what marketing is required and why
+which people and operational actions are required in order to make the expansion a success
+what should finance be spent on and why.
+
+17
+
+Task 3
+Business plan
+Maximum time
+
+10 hours
+
+Content areas assessed
+
+2. Market research, market types and orientation and marketing
+mix
+3. Human resource requirements for a business and enterprise
+4. Operations management
+5. Business growth
+6. Sources of enterprise funding and business finance
+7. The impact of the external environment on business and
+enterprise
+8. Business and enterprise planning
+
+Assessment objectives
+(AOs)
+
+AO1
+AO2
+AO3
+AO4
+
+You are required to:
+•
+
+produce a comprehensive business plan that focuses on NML and the expansion plans.
+
+Your evidence must include a fully completed business plan that includes:
+•
+•
+•
+•
+•
+•
+
+executive summary
+company description
+market analysis
+marketing
+people and operations
+financial plan.
+
+Present your business plan in an appropriate format. Each part of the business plan should
+include analysis and evaluation of decisions made.
+[76 marks]
+You could use a range of the following to provide evidence for your plan:
+
+Evidence
+
+•
+•
+•
+•
+•
+•
+•
+
+written plan
+annotated diagrams
+digital presentation
+screenshots
+spreadsheets
+graphs and charts
+designs.
+
+18
+
+Task 3: business plan
+Band
+
+Mark
+
+Descriptor
+
+4
+
+7 to 8
+
+AO1 – excellent recall of knowledge and understanding of business
+plan content that is comprehensive.
+AO1 – excellent recall of knowledge and understanding of business
+plan structure that is comprehensive.
+
+3
+
+5 to 6
+
+AO1 – good recall of knowledge and understanding of business plan
+content that is mostly detailed.
+AO1 – good recall of knowledge and understanding of business plan
+structure that is mostly detailed.
+
+2
+
+3 to 4
+
+AO1 – reasonable recall of knowledge and understanding of business
+plan content that has some detail.
+AO1 – reasonable recall of knowledge and understanding of business
+plan structure that has some detail.
+
+1
+
+1 to 2
+
+AO1 – limited recall of knowledge and understanding of business plan
+content that has minimal detail.
+AO1 – limited recall of knowledge and understanding of business plan
+structure that has minimal detail.
+
+0
+
+No rewardable material
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each AO as laid out in the indicative content. The evidence provided by the learner for
+each AO may be embedded throughout the evidence submitted for the task. Whilst it is likely
+that the responses will be illustrated by the indicative content points below, credit should be
+given for different approaches, providing they meet the key requirements of the task and mark
+scheme.
+Indicative content
+AO1 – learners will recall knowledge and understanding of business planning and what is
+included in a business plan, which may include the following:
+•
+•
+•
+
+executive summary – as a minimum they may include company name, service provided and
+its target market. Learners may also include information on reasons for service, target
+market, legal structure, finance required
+secondary research – as a minimum this may include, but is not limited to, competition,
+target market, labour needs
+market analysis – as a minimum this may include, but is not limited to, target market,
+competitive environment, potential suppliers
+
+19
+
+•
+•
+•
+
+marketing – as a minimum this may include, but is not limited to, product, place, price,
+promotion
+people and operations – as a minimum this may include, but is not limited to, skills
+requirements, training needs, methods of production and distribution
+financial plan – as a minimum this may include, but is not limited to, start-up costs, running
+costs (fixed and variable), projected income statement and cashflow forecast / break-even
+calculation / chart and analysis.
+
+Task 3: business plan
+Band
+
+Mark
+
+Descriptor
+
+4
+
+7 to 8
+
+AO3 – excellent analysis and evaluation of the brief that is
+comprehensive and highly relevant. Supported with excellent
+justification for their choice of research that is comprehensive and
+highly detailed.
+AO3 – excellent reasoned judgements provided on their business plan
+that are highly detailed.
+
+3
+
+5 to 6
+
+AO3 – good analysis and evaluation of the brief that is detailed and
+mostly relevant. Supported with good justification for their choice of
+research that is detailed.
+AO3 – good, reasoned judgements provided on their business plan
+that are detailed.
+
+2
+
+3 to 4
+
+AO3 – reasonable analysis and evaluation of the brief that has some
+detail and is of some relevance. Supported with reasonable
+justification for their choice of research that has some detail, though
+this may be underdeveloped.
+AO3 – reasonable judgements provided on their business plan that
+have some detail, though these may be underdeveloped.
+
+1
+
+1 to 2
+
+AO3 – limited analysis and evaluation of the brief that has minimal
+detail and is of minimal relevance. Supported with limited
+justification for their choice of research that has minimal detail and is
+mostly superficial.
+AO3 – limited judgements provided on their business plan that have
+minimal detail and are mostly superficial.
+
+0
+
+No rewardable material
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each assessment objective (AO) as laid out in the indicative content. The evidence
+provided by the learner for each AO may be embedded throughout the evidence submitted for
+the task. Whilst it is likely that the responses will be illustrated by the indicative content points
+20
+
+below, credit should be given for different approaches, providing they meet the key
+requirements of the task and mark scheme.
+Indicative content
+AO3 – learners will analyse and evaluate knowledge and understanding via the interpretation of
+the requirements of the brief.
+This is shown through the demonstration required of AO4 and the application required of AO2
+for the production of a business plan. The interpretation of the brief may include the following:
+•
+•
+•
+•
+
+business is expanding by launching a second service
+what marketing is required and why
+which people and operational actions are required in order to make the expansion a
+success.
+finance is required to enable the plan to take place – sources must be considered.
+
+Task 3: business plan – executive summary and company description
+Band
+4
+
+Mark
+
+Descriptor
+
+10 to 12
+
+AO4 – excellent and highly proficient demonstration and application
+of technical skills to create an executive summary and company
+description that is comprehensive and highly detailed.
+AO4 – excellent translation of business needs to the executive
+summary that is comprehensive, highly detailed, and highly
+relevant to the requirements of the brief.
+AO2 – excellent application of knowledge and understanding all
+aspects of the brief. The needs of the business are fully met in a
+comprehensive and highly detailed way. Executive summary and
+company description are highly relevant.
+
+3
+
+7 to 9
+
+AO4 – good and mostly proficient demonstration and application of
+technical skills to create an executive summary and company
+description that is mostly detailed and coherent.
+AO4 – good translation of business needs to the executive summary
+that is mostly detailed and mostly relevant to the requirements of the
+brief.
+AO2 – good application of knowledge and understanding most
+aspects of the brief. The needs of the business are met in a detailed
+and mostly relevant way. Executive summary and company
+description are mostly relevant.
+
+21
+
+Band
+
+Mark
+
+Descriptor
+
+2
+
+4 to 6
+
+AO4 – reasonable demonstration and application of technical skills to
+create an executive summary and company description that shows
+some proficiency and has some detail, though maybe
+underdeveloped.
+AO4 – reasonable translation of business needs to the executive
+summary that has some detail and some relevance to the
+requirements of the brief, though may be underdeveloped.
+AO2 – reasonable application of knowledge and understanding some
+aspects of the brief. The needs of the business are met with some
+detail and with some relevance. Executive summary and company
+description have some relevance.
+
+1
+
+1 to 3
+
+AO4 – limited demonstration and application of technical skills to
+create an executive summary and company description that shows
+limited proficiency and has minimal detail.
+AO4 – limited translation of business needs to the executive summary
+that has limited detail and limited relevance to the requirements of
+the brief.
+AO2 – limited application of knowledge and understanding of limited
+aspects of the brief. The needs of the business are met with limited
+detail and with limited relevance. Executive summary and company
+description have limited relevance.
+
+0
+
+No rewardable material
+
+Task 3: business plan – market analysis
+Band
+4
+
+Mark
+
+Descriptor
+
+10 to 12
+
+AO4 – excellent and highly proficient demonstration and application
+of technical skills to create a market analysis that is comprehensive
+and highly detailed.
+AO4 – excellent analysis of the market that is comprehensive and
+highly detailed to enable the decisions required by the brief.
+AO2 – excellent application of knowledge and understanding all
+aspects of the brief. The needs of the business are fully met in a
+comprehensive and highly detailed way. Market analysis is highly
+relevant.
+
+3
+
+7 to 9
+
+AO4 – good and mostly proficient demonstration and application of
+technical skills to create a market analysis that is mostly detailed and
+coherent.
+AO4 – good analysis of the market that is mostly detailed to enable
+the decisions required by the brief.
+22
+
+Band
+
+Mark
+
+Descriptor
+AO2 – good application of knowledge and understanding most
+aspects of the brief. The needs of the business are met in a detailed
+and mostly relevant way. Market analysis is mostly relevant.
+
+2
+
+4 to 6
+
+AO4 – reasonable demonstration and application of technical skills to
+create a market analysis that shows some proficiency and has some
+detail.
+AO4 – reasonable analysis of the market that has some detail to
+enable the decisions required by the brief.
+AO2 – reasonable consideration of some aspects of the brief. Most of
+the needs of the business company are met in a sound manner.
+Marketing analysis is somewhat appropriate.
+
+1
+
+1 to 3
+
+AO4 – limited demonstration and application of technical skills to
+create a market analysis that shows limited proficiency and has
+minimal detail.
+AO4 – limited analysis of the market that has minimal detail to
+enable the decisions required by the brief.
+AO2 – limited application of knowledge and understanding of limited
+aspects of the brief. The needs of the business are met with limited
+detail and with limited relevance. Market analysis has limited
+relevance.
+
+0
+
+No rewardable material
+
+23
+
+Task 3: business plan – marketing
+Band
+4
+
+Mark
+
+Descriptor
+
+10 to 12
+
+AO4 – excellent and highly proficient demonstration and application
+of technical skills to create marketing plans that are comprehensive
+and highly detailed.
+AO4 – excellent translation of business needs to the marketing plans
+that are comprehensive, highly detailed and meets the requirements
+of the brief.
+AO2 – excellent application of knowledge and understanding all
+aspects of the brief. The needs of the business are fully met in a
+comprehensive and highly detailed way. Marketing plans are highly
+relevant.
+
+3
+
+7 to 9
+
+AO4 – good and mostly proficient demonstration and application of
+technical skills to create a marketing plan that is mostly detailed and
+coherent.
+AO4 – good translation of business needs to the marketing plan that is
+mostly detailed to meet the requirements of the brief.
+AO2 – good application of knowledge and understanding most
+aspects of the brief. The needs of the business are met in a detailed
+and mostly relevant way. Marketing plans are mostly relevant.
+
+2
+
+4 to 6
+
+AO4 – reasonable demonstration and application of technical skills to
+create a marketing plan that shows reasonable proficiency and has
+some detail.
+AO4 – reasonable translation of business needs to the marketing
+plan.
+AO2 – reasonable consideration of some aspects of the brief. Most of
+the needs of the business company are met in a sound manner.
+Marketing choices are somewhat appropriate.
+
+1
+
+1 to 3
+
+AO4 – limited demonstration and application of technical skills to
+create a marketing plan that shows limited proficiency and has
+limited detail.
+AO4 – limited translation of business needs to the marketing plan.
+AO2 – limited consideration of some aspects of the brief. Some of the
+needs of the business are met. Marketing choices are of limited
+appropriateness.
+
+0
+
+No rewardable material
+
+24
+
+Task 3: business plan – people and operations
+Band
+4
+
+Mark
+
+Descriptor
+
+10 to 12
+
+AO4 – excellent and highly proficient demonstration and application
+of technical skills to create people and operations plans that are
+comprehensive and highly detailed.
+AO4 – excellent translation of business needs to the people and
+operations plans that are comprehensive and highly detailed to meet
+the requirements of the brief.
+AO2 – excellent application of knowledge and understanding all
+aspects of the brief. The needs of the business are fully met in a
+comprehensive and highly detailed way. People and operations
+plans are highly relevant.
+
+3
+
+7 to 9
+
+AO4 – good and mostly proficient demonstration and application of
+technical skills to create people and operations plans that are mostly
+detailed and coherent.
+AO4 – good translation of business needs to the people and
+operations plans that are mostly detailed to meet the requirements of
+the brief.
+AO2 – good application of knowledge and understanding most
+aspects of the brief. The needs of the business are met in a detailed
+and mostly relevant way. People and operations plans are mostly
+relevant.
+
+2
+
+4 to 6
+
+AO4 – reasonable demonstration and application of technical skills to
+create a people and operations plan that shows reasonable
+proficiency and has some detail.
+AO4 – reasonable translation of business needs to meet the
+requirements of the brief.
+AO2 – reasonable consideration of some aspects of the brief. Most of
+the needs of the business company are met in a sound manner.
+People and operations choices are somewhat appropriate.
+
+1
+
+1 to 3
+
+AO4 – limited demonstration and application of technical skills to
+create a people and operations plan that shows limited proficiency
+and has minimal detail.
+AO4 – limited translation of business needs to the people and
+operations plan that has limited detail to meet the requirements of the
+brief.
+AO2 – limited application of knowledge and understanding of limited
+aspects of the brief. The needs of the business are met with limited
+detail and with limited relevance. People and operations have
+limited relevance.
+
+0
+
+No rewardable material
+25
+
+Task 3: business plan – financial plan
+Band
+4
+
+Mark
+
+Descriptor
+
+10 to 12
+
+AO4 – excellent and highly proficient demonstration and application
+of technical skills to create a financial plan that is comprehensive and
+highly detailed.
+AO4 – excellent translation of business needs to the financial plan
+that is comprehensive and highly detailed to meet the requirements
+of the brief.
+AO2 – excellent application of knowledge and understanding all
+aspects of the brief. The needs of the business are fully met in a
+comprehensive and highly detailed way. Financial plan is highly
+relevant.
+
+3
+
+7 to 9
+
+AO4 – good and mostly proficient demonstration and application of
+technical skills to create a financial plan that is mostly detailed and
+coherent.
+AO4 – good translation of business needs to the financial plan that is
+mostly detailed to meet the requirements of the brief.
+AO2 – good application of knowledge and understanding most
+aspects of the brief. The needs of the business are met in a detailed
+and mostly relevant way. Financial plans are mostly relevant.
+
+2
+
+4 to 6
+
+AO4 – reasonable demonstration and application of technical skills to
+create a financial plan that shows reasonable proficiency and has
+some detail.
+AO4 – reasonable translation of business needs to the financial plan
+that has some detail to meet the requirements of the brief.
+AO2 – reasonable consideration of some aspects of the brief. Most of
+the needs of the business company are met in a sound manner.
+Financial planning choices are somewhat appropriate.
+
+1
+
+1 to 3
+
+AO4 – limited demonstration and application of technical skills to
+create a financial plan that shows limited proficiency and has limited
+detail.
+AO4 – limited translation of business needs to the financial plan that
+has limited detail to meet the requirements of the brief.
+AO2 – limited application of knowledge and understanding of limited
+aspects of the brief. The needs of the business are met with limited
+detail and with limited relevance. Financial plan has limited
+relevance.
+
+0
+
+No rewardable material
+
+26
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each assessment objective (AO) as laid out in the indicative content. The evidence
+provided by the learner for each AO may be embedded throughout the evidence submitted for
+the task. Whilst it is likely that the responses will be illustrated by the indicative content points
+below, credit should be given for different approaches, providing they meet the key
+requirements of the task and mark scheme.
+Indicative content
+AO2 – learners will apply knowledge and understanding of business planning to the
+requirements of the brief that may include the following:
+•
+•
+•
+
+the business planning requirements of NML to enable the expansion plans to successfully
+take place. This will include consideration of how the business will move from only cleaning
+services to also gardening services.
+information as to the production factors that the business will have to consider to enable the
+plans to take place. This will include decisions on which equipment to purchase and the
+number of employees to recruit and their experience.
+the funding required to facilitate the plans will be considered and relevant sources of finance
+discussed that are appropriate to the business and the project plans.
+
+AO4 – learners will demonstrate the application of technical skills with the creation and
+completion of a business plan that may include the following:
+•
+•
+•
+•
+•
+•
+•
+•
+
+executive summary – company name, product provided, reasons for product, target market,
+legal structure, finance required
+primary and secondary research – competition, products and prices, number and location,
+distribution methods, target market (location, characteristics, number), labour needs (skills,
+number of employees, cost)
+premises – location, cost, equipment (items needed), cost
+raw materials and / or components (quantity, cost, supplier)
+market analysis – target market, competitive environment, potential suppliers
+marketing – product / service, place, price, promotion
+people and operations:
+o people considerations (skills required, training needs, structure of management, cost)
+o operational considerations (method of production, equipment, distribution methods, cost)
+financial plan – start-up costs, running costs (fixed and variable), projected income
+statement, cash flow forecast / break-even calculation / chart and analysis.
+
+27
+
+Task 4
+Review and evaluation
+Maximum time
+
+2 hours
+
+Content area assessed
+
+1. Entrepreneurship, business organisation and stakeholders
+
+Assessment objective
+(AO)
+
+AO5
+
+You are required to:
+•
+•
+
+evaluate your preparation for business planning and the final business plan
+review each stage of the project, considering areas of strength and areas for
+improvement.
+
+As a minimum, your evaluation must include consideration of:
+•
+•
+•
+•
+
+the accuracy of your business summary
+the accuracy of the timeline. Did you need to amend it and, if so, why?
+whether your research was effective. Did it provide relevant and sufficient information to
+allow you to complete the tasks? If not, how could it be improved?
+which sections of the business plan were most difficult to complete and why? How could
+you have improved the business plan?
+[12 marks]
+You must provide:
+•
+
+Evidence
+
+your review / evaluation.
+
+You could use the following formats to provide evidence of your evaluation:
+•
+•
+•
+
+written responses
+annotated screenshots
+a digital presentation.
+
+28
+
+Task 4: review and evaluation
+Band
+
+Mark
+
+Descriptor
+
+4
+
+10 to 12
+
+AO5 – excellent analysis and evaluation of the success of the final
+business plan in relation to the brief, discussed in a comprehensive
+and highly detailed way.
+Thoughtful ways to improve the business plan that are
+comprehensive, highly detailed and highly relevant are provided.
+
+3
+
+7 to 9
+
+AO5 – good analysis and evaluation of the success of the final
+business plan in relation to the brief, discussed in a mostly detailed
+way.
+Thoughtful and useful ways to improve the business plan that are
+mostly detailed and mostly relevant are provided.
+
+2
+
+4 to 6
+
+AO5 – reasonable analysis and evaluation of the success of the final
+business plan in relation to the brief, discussed in some detail though
+this may be underdeveloped.
+Ways to improve the business plan are provided in some detail, with
+some relevance to the brief, though may be underdeveloped.
+
+1
+
+1 to 3
+
+AO5 – limited analysis and evaluation of the success of the final
+business plan in relation to the brief, discussed in minimal detail and
+is mostly irrelevant.
+Improvements will be limited with minimal detail and of very limited
+relevance.
+
+0
+
+No rewardable material.
+
+Note: it is not a requirement that the learner formulates a response in their portfolio specifically
+against each AO as laid out in the indicative content. The evidence provided by the learner for
+each AO may be embedded throughout the evidence submitted for the task. Whilst it is likely
+that the responses will be illustrated by the indicative content points below, credit should be
+given for different approaches, providing they meet the key requirements of the task and mark
+scheme.
+Indicative content
+AO5 – learner will analyse and evaluate the whole process of developing the business plan
+including an evaluation of how well the project planning, research and development of the
+business plan, that may include the following:
+•
+•
+•
+•
+•
+
+was the business summary accurate?
+was the timeline realistic and was it adhered to?
+was the research conducted effective, and did it provide the information / data that was
+needed for the business plan?
+how could the research conducted be improved?
+were all sections of the business plan completed in sufficient detail?
+29
+
+•
+•
+•
+
+which sections of the business plan were difficult to complete?
+how could the business plan be improved?
+if you were to undertake the whole project again, what would you do the same and what
+would you change?
+
+30
+
+
